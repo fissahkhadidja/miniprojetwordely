@@ -14,7 +14,8 @@ Ce dépôt contient un programme en langage C capable de résoudre le jeu **Word
 - **Gestion de la mémoire :** Allocation dynamique (`malloc`) et libération (`free`) pour manipuler le dictionnaire.
 - **Algorithmique :** Filtrage récursif de la liste chaînée pour optimiser la recherche du solveur.
 ## image de projet
-![l'image représente le mode humaine]("C:\Users\USER\Desktop\PROJETWORDEL\Capturedeterminalwordel.PNG")
+![l'image représente le mode humaine]![Uploading Capturedeterminalwordel.PNG…]()
+
 ## 🚀 Installation et Utilisation
 Pour compiler et exécuter le projet sur Linux ou macOS :
 1. Compilez le code :
