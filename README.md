@@ -1,3 +1,4 @@
+<img width="285" height="138" alt="Capturedeterminalwordel" src="https://github.com/user-attachments/assets/c3302268-31c0-402a-9359-16c800e34c07" />
 # miniprojetwordely
 Mini-projet en C : Wordle Solver avec liste chaînée dynamique et filtrage récursif. Inclut un mode joueur et un solveur intelligent.
 # Wordle Solver - Mini-Projet en C
