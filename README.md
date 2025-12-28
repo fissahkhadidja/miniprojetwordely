@@ -1,6 +1,6 @@
 Mini-projet en C : Wordle Solver avec liste chaînée dynamique et filtrage récursif. Inclut un mode joueur et un solveur intelligent.
 ## image mode humaine
-<img width="285" height="138" alt="Capturedeterminalwordel" src="https://github.com/user-attachments/assets/c3302268-31c0-402a-9359-16c800e34c07" />
+<img width="285" height="138" alt="Capturedeterminalwordel" src="https://github.com/user-attachments/assets/c3302268-31c0-402a-9359-16c800e34c07" />.
 ## image mode solveur 
 <img width="239" height="108" alt="CapturedeterminalwordelIA" src="https://github.com/user-attachments/assets/1b6be52d-3afd-4d6e-8541-7366cd327b49" />
 <img width="288" height="135" alt="CapturedeterminalwordelIA2" src="https://github.com/user-attachments/assets/d7d872be-fe52-48cf-8012-530f9b65e039" />
