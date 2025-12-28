@@ -17,7 +17,7 @@ Ce dépôt contient un programme en langage C capable de résoudre le jeu **Word
 ## 🚀 Installation et Utilisation
 Pour compiler et exécuter le projet sur Linux ou macOS :
 ## image project
-![cette image représente le mode humaine]("C:\Users\USER\Desktop\PROJETWORDEL\Capturedeterminalwordel.PNG")
+![cette image représente le mode humaine](Capturedeterminalwordel.png)
 
 1. Compilez le code :
    ```bash
