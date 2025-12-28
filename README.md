@@ -1,6 +1,7 @@
-<img width="285" height="138" alt="Capturedeterminalwordel" src="https://github.com/user-attachments/assets/c3302268-31c0-402a-9359-16c800e34c07" />
-# miniprojetwordely
+
 Mini-projet en C : Wordle Solver avec liste chaînée dynamique et filtrage récursif. Inclut un mode joueur et un solveur intelligent.
+## image mode humaine
+<img width="285" height="138" alt="Capturedeterminalwordel" src="https://github.com/user-attachments/assets/c3302268-31c0-402a-9359-16c800e34c07" />
 # Wordle Solver - Mini-Projet en C
 
 Ce dépôt contient un programme en langage C capable de résoudre le jeu **Wordle**. Le projet met en œuvre des structures de données dynamiques pour simuler le jeu et créer une intelligence artificielle capable de trouver le mot secret.
